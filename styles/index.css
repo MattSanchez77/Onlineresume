@@ -1,0 +1,16 @@
+#section1{
+    display: flex;
+    flex-wrap: wrap;
+ }
+ .box{
+    border: 2px solid black;
+ }
+ #box1{
+    flex-grow: 1;
+ }
+ #box2{
+    flex-grow: 1;
+ }
+ body{
+    margin: 0;
+ }
